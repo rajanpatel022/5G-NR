@@ -1,0 +1,6 @@
+{
+  "name": "NR Only 5G",
+  "description": "5G / NR Network Control switcher with live cellular telemetry and radio engineering shortcuts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
